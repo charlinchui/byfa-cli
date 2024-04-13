@@ -64,7 +64,7 @@ To get started with **byfa**, follow these simple steps:
 
 ## License
 
-**byfa** is licensed under the [MIT License](https://github.com/charlinchui/byfa/blob/main/LICENSE). Feel free to use, modify, and distribute it according to your needs.
+**byfa** is licensed under the [MIT License](https://github.com/charlinchui/byfa-cli?tab=MIT-1-ov-file). Feel free to use, modify, and distribute it according to your needs.
 
 ---
 
