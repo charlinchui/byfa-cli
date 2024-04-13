@@ -74,7 +74,7 @@ For more information on how `embed.go` works, refer to the comments within the f
 
 ## License
 
-**byfa** is licensed under the [MIT License](https://github.com/charlinchui/byfa-cli?tab=MIT-1-ov-file). Feel free to use, modify, and distribute it according to your needs.
+**BYFA** is licensed under the [MIT License](https://github.com/charlinchui/byfa-cli?tab=MIT-1-ov-file). Feel free to use, modify, and distribute it according to your needs.
 
 ---
 
