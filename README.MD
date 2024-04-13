@@ -64,7 +64,7 @@ To get started with **byfa-cli**, follow these simple steps:
 
 ## License
 
-**byfa-cli** is licensed under the [MIT License](link-to-license). Feel free to use, modify, and distribute it according to your needs.
+**byfa-cli** is licensed under the [MIT License](https://github.com/charlinchui/byfa-cli/blob/main/LICENSE). Feel free to use, modify, and distribute it according to your needs.
 
 ---
 
