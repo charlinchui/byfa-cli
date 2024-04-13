@@ -38,7 +38,7 @@ Documentation for **byfa** is currently in progress. We're working hard to provi
 
 To get started with **byfa**, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/byfa.git`
+1. Clone the repository: `git clone https://github.com/yourusername/byfa-cli.git`
 2. Navigate to the project directory: `cd byfa`
 3. Build the project: `go build`
 4. Run `byfa` from your terminal and follow the prompts to generate your API project.
