@@ -41,7 +41,7 @@ To get started with **byfa-cli**, follow these simple steps:
 1. Clone the repository: `git clone https://github.com/yourusername/byfa-cli.git`
 2. Navigate to the project directory: `cd byfa-cli`
 3. Build the project: `go build`
-4. Run `byfa-cli` from your terminal and follow the prompts to generate your API project.
+4. Run `byfa` from your terminal and follow the prompts to generate your API project.
 5. Dive into your new project and start building your API!
 
 ### Usage: Express
