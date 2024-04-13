@@ -1,0 +1,10 @@
+test
+test.*
+bin
+go.work
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
