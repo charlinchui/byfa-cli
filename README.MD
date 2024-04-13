@@ -62,6 +62,8 @@ To get started with **byfa**, follow these simple steps:
 - **Bug Reports:** Encounter a bug? Let us know by opening an issue, and we'll work to address it promptly.
 - **Code Contributions:** Fork the repository, make your changes, and submit a pull request. We appreciate all contributions, big or small!
 
+Check the code of conduct [here!](https://github.com/charlinchui/byfa-cli?tab=coc-ov-file)
+
 ### embed.go
 
 The `embed.go` file is a crucial component of **byfa**. It is responsible for embedding shell files into Go code, enabling their usage during the build process. This allows **byfa** to include essential scripts directly in the generated binary/executable file.
