@@ -64,10 +64,11 @@ To get started with **byfa**, follow these simple steps:
 
 ### embed.go
 
-The `embed.go` file is a key component of **byfa**. It is responsible for embedding shell files into Go code, enabling their usage during the build process. This allows **byfa** to include essential scripts directly in the generated binary/executable file.
+The `embed.go` file is a crucial component of **byfa**. It is responsible for embedding shell files into Go code, enabling their usage during the build process. This allows **byfa** to include essential scripts directly in the generated binary/executable file.
+
+Please note that `embed.go` will not be built automatically when running `go build`. Instead, it is used during the `go generate` step to embed the shell files into the Go code.
 
 For more information on how `embed.go` works, refer to the comments within the file.
-
 
 ## License
 
