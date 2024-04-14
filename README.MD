@@ -1,4 +1,4 @@
-![byfa logo](.github/logo-medium.png)
+![byfa logo](.github/logo-big.png)
 
 Welcome to **BYFA** – your go-to tool for kickstarting API projects in various frameworks and programming languages!
 
