@@ -2,6 +2,8 @@
 
 Welcome to **BYFA** – your go-to tool for kickstarting API projects in various frameworks and programming languages!
 
+##### _Note: This tool is still under development, meaning that some of the features are not yet fully developed._
+
 ## Description
 
 **BYFA** is a command-line interface (CLI) application designed to streamline the process of creating base projects for APIs using different frameworks and programming languages. Whether you're diving into a new language or framework or simply want to expedite the project setup process, **BYFA** has got you covered.
@@ -40,7 +42,7 @@ To get started with **BYFA**, follow these simple steps:
 
 1. Clone the repository: `git clone https://github.com/charlinchui/byfa-cli.git`
 2. Navigate to the project directory: `cd byfa-cli`
-3. Build the project: `go build`
+3. Build the project: `go install && go build -o bin/byfa`
 4. Run `byfa` from your terminal and follow the prompts to generate your API project.
 5. Dive into your new project and start building your API!
 
