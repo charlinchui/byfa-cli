@@ -8,7 +8,7 @@ import (
 )
 
 func ExpressScript(name string, path string){
-sh := fmt.Sprintf(`const #!/bin/sh
+sh := fmt.Sprintf(`#!/bin/sh
 
 name=%s
 path=%s

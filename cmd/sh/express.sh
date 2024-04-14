@@ -1,4 +1,4 @@
-const #!/bin/sh
+#!/bin/sh
 
 name=%s
 path=%s
