@@ -4,6 +4,10 @@ Welcome to **BYFA** – your go-to tool for kickstarting API projects in various
 
 ##### _Note: This tool is still under development, meaning that some of the features are not yet fully developed._
 
+## Requirements
+
+To use, compile, and use BYFA from the source code you need Go v1.22 or higher installed on your machine.
+
 ## Description
 
 **BYFA** is a command-line interface (CLI) application designed to streamline the process of creating base projects for APIs using different frameworks and programming languages. Whether you're diving into a new language or framework or simply want to expedite the project setup process, **BYFA** has got you covered.
