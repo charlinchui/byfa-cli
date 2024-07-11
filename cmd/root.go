@@ -16,7 +16,7 @@ var rootCmd = &cobra.Command{
 	Long: `BYFA stands for Build Your First API, it aims to help developers learning a new language or framework scaffolding their first API project with it.
 We currently support: Express.
 We aim to support: Express, Go (net/http), NestJS, Rust (TBD) & FastAPI on the first release. 
-It is an open source project, we accept contributions at: <link>`,
+It is an open source project, we accept contributions at: https://github.com/charlinchui/byfa-cli`,
 }
 
 func Execute() {
